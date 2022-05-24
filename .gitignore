@@ -25,6 +25,7 @@ media
 *.so
 
 **/migrations/
+static/
 
 # Distribution / packaging
 .Python
